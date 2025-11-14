@@ -2,7 +2,7 @@
 Independent project: Object detection annotation using bounding boxes
 
 ## About This Project
-Manual annotation of self-created dataset with bounding boxes for object detection.
+Manual annotation of self-created dataset with bounding boxes for object detection. Images contain everyday items (books, pens, pencils, rulers) captured in various arrangements and lighting conditions.
 
 **Skills demonstrated:**
 - Object detection and bounding box annotation
@@ -16,7 +16,7 @@ Manual annotation of self-created dataset with bounding boxes for object detecti
 - Source: 50 self-created images
 - Objects annotated: book, pen, pencil, ruler
 - Annotation format: VIA JSON (VGG Image Annotator)
-- Total annotations: [Number of bounding boxes across all images]
+- Total annotations: 189
 
 ## Project Structure
 - raw_images/ - Original dataset (50 images in JPG format)
@@ -25,4 +25,11 @@ Manual annotation of self-created dataset with bounding boxes for object detecti
 - ANNOTATION_GUIDELINES.md - Detailed annotation rules and standards
 
 ## Sample Results
-[Screenshots showing annotated images with bounding boxes]
+### Sample 1
+![Sample 1](samples/sample_1.jpg)
+
+### Sample 2
+![Sample 2](samples/sample_2.jpg)
+
+### Sample 3
+![Sample 3](samples/sample_3.jpg)
