@@ -8,7 +8,7 @@ Manual annotation of self-created dataset with bounding boxes for object detecti
 - Object detection and bounding box annotation
 - Attention to detail and annotation consistency
 - Dataset organization and documentation
-- Annotation tool proficiency
+- Image annotation tool proficiency
 
 **Tools used:** VGG Image Annotator
 
